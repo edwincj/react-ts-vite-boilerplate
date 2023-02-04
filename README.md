@@ -40,3 +40,6 @@ npm run build
 ```
 
 This will build the app in dist folder.
+
+## Licensing
+MIT
